@@ -1,4 +1,9 @@
+# dotfiles
 distro: Arch
 
-gnome > i3 > the other ones
 
+# beliefs
+gnome > i3 > the other ones  
+vim > emacs  
+tabs > spaces  
+fortnite > pubg  
