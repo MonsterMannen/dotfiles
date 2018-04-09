@@ -1,5 +1,10 @@
+# ignore everything
 *
 
-!.bashrc
+# except these :^)
 !.gitignore
+!.bashrc
+!.vimrc
+!.config/i3/*
+!.config/gtk-3.0/*
 
