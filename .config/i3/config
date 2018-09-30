@@ -184,6 +184,7 @@ bar {
 
 # Lockscreen
 bindsym $mod+shift+x exec i3lock -c ff71b5
+bindsym $mod+shift+z exec ~/scripts/glitchlock
 
 # Pulse Audio controls
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5% #increase sound volume

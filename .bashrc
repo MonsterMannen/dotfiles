@@ -34,3 +34,5 @@ man() {
 
 LS_COLORS='di=1;34:fi=0:ln=1;36:or=31:mi=0:ex=92;1'
 export LS_COLORS
+
+PATH=$PATH:/home/viktor/scripts
