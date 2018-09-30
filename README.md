@@ -1,2 +1,3 @@
 # dotfiles
-bad dotfiles
+
+Arch Linux
