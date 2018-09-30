@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+
+import shutil
+
+s = shutil.disk_usage("/")
+
+# total = int(s[0]/(1024*1024*1024))
+free = int(s[2]/(1024*1024*1024))
+
+print("free: " + str(free) + " GB")
