@@ -37,3 +37,6 @@ export LS_COLORS
 
 # Add script directory to path
 PATH=$PATH:/home/viktor/scripts
+
+# temp adding this here
+alias chrome='chromium --disable-gpu-driver-bug-workarounds --use-gl=osmesa &>/dev/null &'
