@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ffmpeg -nostats -loglevel 0 -f v4l2 -i /dev/video0 -vframes 1 pic.jpeg
+
