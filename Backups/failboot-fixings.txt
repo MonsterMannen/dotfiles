@@ -1,6 +1,7 @@
+lsblk #check partitions
+
 mount /dev/sda2 /mnt
 arch-chroot /mnt /bin/bash
 
-downgrade brokenPackageName
+downgrade brokenPackageName #usually this
 
-# ez fix :D
