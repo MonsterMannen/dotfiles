@@ -1,0 +1,6 @@
+mount /dev/sda2 /mnt
+arch-chroot /mnt /bin/bash
+
+downgrade brokenPackageName
+
+# ez fix :D
