@@ -1,0 +1,8 @@
+make laptop be able to suspend fix :D
+
+/etc/systemd/logind.conf -> HandleLidSwitch=suspend  ;;; no # before
+
+hope it keeps working
+
+latest lts kernel 
+5.4.86-1-lts
