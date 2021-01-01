@@ -1,6 +1,6 @@
 make laptop be able to suspend fix :D
 
-/etc/systemd/logind.conf -> HandleLidSwitch=suspend  ;;; no # before
+/etc/systemd/logind.conf -> HandleLidSwitch=suspend   //no # before
 
 hope it keeps working
 
