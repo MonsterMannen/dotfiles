@@ -17,6 +17,7 @@ alias reflector-update='reflector --latest 50 --protocol http --protocol https -
 alias sudo='sudo ' # sudo alias to make sudo work with other aliases
 alias please='sudo '
 alias fuck='sudo $(history -p !!)'
+alias vi='vim'
 
 # PS1 (dir $)   # \[ \] around colors to fix wrap bug
 PS1='\W\[\e[0;95m\] $\[\e[0m\] '
